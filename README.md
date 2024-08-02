@@ -1,4 +1,4 @@
-# 🌐 Web Bonding: Transformamos Ideas en Experiencias Digitales 🚀
+# Web Bonding: Transformamos Ideas en Experiencias Digitales 🚀
 
 Bienvenido a **Web Bonding**, tu socio en la transformación digital. Somos una agencia de desarrollo web full stack comprometida en ofrecer soluciones digitales personalizadas para empresas y marcas personales.
 
